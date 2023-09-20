@@ -6,10 +6,9 @@ O projeto Quiz  é uma aplicação web desenvolvida em React.js que permite aos 
 
 ## Índice
 - <a href="#📱funcionalidades-do-projetofuncionalidades">Funcionalidades do projeto </a>
-- <a href="#demonstração">Demonstração </a>
 - <a href="#como-rodar-este-projeto">Como rodar este projeto? </a>
 - <a href="#🛠️-tecnologias-utilizadas">Tecnologias utilizadas </a>
-  
+
 
 ##📱funcionalidades-do-projetofuncionalidades
 
@@ -24,7 +23,6 @@ O projeto Quiz  é uma aplicação web desenvolvida em React.js que permite aos 
 ![question](src/img/playing.gif)
 
 
-## Demonstração
 
 
 ## Como rodar este Projeto?
